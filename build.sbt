@@ -14,5 +14,5 @@ libraryDependencies ++= Seq(
 
 // javascript sources
 jsDependencies ++= Seq(
-  "org.webjars.npm" % "axios" % "0.16.1" / "dist/axios.js" minified "dis/axios.min.js" commonJSName "Axios"
+  "org.webjars.npm" % "axios" % "0.16.1" / "dist/axios.js" minified "dist/axios.min.js" commonJSName "Axios"
 )
